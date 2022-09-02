@@ -1,3 +1,3 @@
-# Chakra UI Docs
+# Chakra UI
 
-documentation for Chakra UI
+Documentation for Chakra UI

@@ -1,5 +1,5 @@
 import { ActionPanel, List, Action } from "@raycast/api";
-import GetStartedDocs from "./documentation/documentation";
+import GetStartedDocs from "./documentation/getStartedDocs";
 
 export default function SearchDocumentation() {
   return (
@@ -10,6 +10,7 @@ export default function SearchDocumentation() {
             <List.Item
               key={item.url}
               title={item.title}
+              icon="chakra-ui.png"
               keywords={[item.title, section]}
               actions={
                 <ActionPanel>

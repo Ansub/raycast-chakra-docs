@@ -1,5 +1,5 @@
 import { ActionPanel, List, Action } from "@raycast/api";
-import StyledSystem from "./documentation/styled-system";
+import StyledSystem from "./documentation/styledSystemDocs";
 
 export default function SearchDocumentation() {
   return (

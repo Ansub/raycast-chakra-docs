@@ -1,9 +1,9 @@
 {
   "$schema": "https://www.raycast.com/schemas/extension.json",
   "name": "chakra-ui-docs",
-  "title": "Chakra UI Docs",
-  "description": "documentation for Chakra UI",
-  "icon": "command-icon.png",
+  "title": "Chakra UI",
+  "description": "Documentation for Chakra UI",
+  "icon": "chakra-ui.png",
   "author": "Ansub",
   "categories": [
     "Documentation"
@@ -17,37 +17,37 @@
       "keywords": [
         "get started"
       ],
-      "description": "get started with Chakra UI",
+      "description": "Get Started with Chakra UI",
       "mode": "view"
     },
     {
       "name": "styled-system",
-      "title": "Styled System",
+      "title": "Search Styled System",
       "subtitle": "Chakra UI",
       "keywords": [
         "styled system"
       ],
-      "description": "styled system of Chakra UI",
+      "description": "Styled System of Chakra UI",
       "mode": "view"
     },
     {
       "name": "components",
-      "title": "Components",
+      "title": "Search Components",
       "subtitle": "Chakra UI",
       "keywords": [
         "components"
       ],
-      "description": "components of Chakra UI",
+      "description": "Components of Chakra UI",
       "mode": "view"
     },
     {
       "name": "hooks",
-      "title": "Hooks",
+      "title": "Search Hooks",
       "subtitle": "Chakra UI",
       "keywords": [
         "hooks"
       ],
-      "description": "hooks of Chakra UI",
+      "description": "Hooks of Chakra UI",
       "mode": "view"
     }
   ],

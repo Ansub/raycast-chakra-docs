@@ -1,7 +1,7 @@
 export default {
   Layout: [
     {
-      url: "https://chakra-ui.com/getting-started",
+      url: "https://chakra-ui.com/docs/components/aspect-ratio",
       title: "Aspect Ratio",
     },
     {

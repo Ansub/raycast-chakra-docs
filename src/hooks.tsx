@@ -10,6 +10,7 @@ export default function SearchDocumentation() {
             <List.Item
               key={item.url}
               title={item.title}
+              icon="chakra-ui.png"
               keywords={[item.title, section]}
               actions={
                 <ActionPanel>
