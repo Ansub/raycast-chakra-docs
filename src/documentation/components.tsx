@@ -40,7 +40,7 @@ export default {
   Forms: [
     {
       url: "https://chakra-ui.com/docs/components/button",
-      title: "Buttons",
+      title: "Button",
     },
     {
       url: "https://chakra-ui.com/docs/components/checkbox",
@@ -93,6 +93,162 @@ export default {
     {
       url: "https://chakra-ui.com/docs/components/textarea",
       title: "Textarea",
+    },
+  ],
+  "Data Display": [
+    {
+      url: "https://chakra-ui.com/docs/components/badge",
+      title: "Badge",
+    },
+    {
+      url: "https://chakra-ui.com/docs/components/code",
+      title: "Code",
+    },
+    {
+      url: "https://chakra-ui.com/docs/components/kbd",
+      title: "Kbd",
+    },
+    {
+      url: "https://chakra-ui.com/docs/components/list",
+      title: "List",
+    },
+    {
+      url: "https://chakra-ui.com/docs/components/stat",
+      title: "Stat",
+    },
+    {
+      url: "https://chakra-ui.com/docs/components/table",
+      title: "Table",
+    },
+    {
+      url: "https://chakra-ui.com/docs/components/tag",
+      title: "Tag",
+    },
+  ],
+  Feedback: [
+    {
+      url: "https://chakra-ui.com/docs/components/alert",
+      title: "Alert",
+    },
+    {
+      url: "https://chakra-ui.com/docs/components/circular-progress",
+      title: "Circular Progress",
+    },
+    {
+      url: "https://chakra-ui.com/docs/components/progress",
+      title: "Progress",
+    },
+    {
+      url: "https://chakra-ui.com/docs/components/skeleton",
+      title: "Skeleton",
+    },
+    {
+      url: "https://chakra-ui.com/docs/components/spinner",
+      title: "Spinner",
+    },
+    {
+      url: "https://chakra-ui.com/docs/components/toast",
+      title: "Toast",
+    },
+  ],
+  Typography: [
+    {
+      url: "https://chakra-ui.com/docs/components/text",
+      title: "Text",
+    },
+    {
+      url: "https://chakra-ui.com/docs/components/heading",
+      title: "Heading",
+    },
+    {
+      url: "https://chakra-ui.com/docs/components/highlight",
+      title: "Highlight",
+    },
+  ],
+  Overlay: [
+    {
+      url: "https://chakra-ui.com/docs/components/alert-dialog",
+      title: "Alert Dialog",
+    },
+    {
+      url: "https://chakra-ui.com/docs/components/drawer",
+      title: "Drawer",
+    },
+    {
+      url: "https://chakra-ui.com/docs/components/modal",
+      title: "Modal",
+    },
+    {
+      url: "https://chakra-ui.com/docs/components/popover",
+      title: "Popover",
+    },
+    {
+      url: "https://chakra-ui.com/docs/components/tooltip",
+      title: "Tooltip",
+    },
+  ],
+  Disclosure: [
+    {
+      url: "https://chakra-ui.com/docs/components/accordion",
+      title: "Accordion",
+    },
+    {
+      url: "https://chakra-ui.com/docs/components/tabs",
+      title: "Tabs",
+    },
+    {
+      url: "https://chakra-ui.com/docs/components/visually-hidden",
+      title: "Visually Hidden",
+    },
+  ],
+  Navigation: [
+    {
+      url: "https://chakra-ui.com/docs/components/breadcrumb",
+      title: "Breadcrumb",
+    },
+    {
+      url: "https://chakra-ui.com/docs/components/link",
+      title: "Link",
+    },
+    {
+      url: "https://chakra-ui.com/docs/components/link-overlay",
+      title: "Link Overlay",
+    },
+    {
+      url: "https://chakra-ui.com/docs/components/skip-nav",
+      title: "SkipNav",
+    },
+  ],
+  "Media And Icons": [
+    {
+      url: "https://chakra-ui.com/docs/components/avatar",
+      title: "Avatar",
+    },
+    {
+      url: "https://chakra-ui.com/docs/components/icon",
+      title: "Icon",
+    },
+    {
+      url: "https://chakra-ui.com/docs/components/image",
+      title: "Image",
+    },
+  ],
+  Other: [
+    {
+      url: "https://chakra-ui.com/docs/components/close-button",
+      title: "Close Button",
+    },
+    {
+      url: "https://chakra-ui.com/docs/components/portal",
+      title: "Portal",
+    },
+    {
+      url: "https://chakra-ui.com/docs/components/show-hide",
+      title: "Show / Hide",
+    },
+    {
+      url: "https://chakra-ui.com/docs/components/transitions",
+      title: "Transitions",
     },
   ],
 };

@@ -1,5 +1,5 @@
 import { ActionPanel, List, Action } from "@raycast/api";
-import GetStartedDocs from "./documentation/documentation";
+import GetStartedDocs from "./documentation/hooksDocs";
 
 export default function SearchDocumentation() {
   return (

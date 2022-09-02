@@ -29,6 +29,26 @@
       ],
       "description": "styled system of Chakra UI",
       "mode": "view"
+    },
+    {
+      "name": "components",
+      "title": "Components",
+      "subtitle": "Chakra UI",
+      "keywords": [
+        "components"
+      ],
+      "description": "components of Chakra UI",
+      "mode": "view"
+    },
+    {
+      "name": "hooks",
+      "title": "Hooks",
+      "subtitle": "Chakra UI",
+      "keywords": [
+        "hooks"
+      ],
+      "description": "hooks of Chakra UI",
+      "mode": "view"
     }
   ],
   "dependencies": {
